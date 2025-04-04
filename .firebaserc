@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "se2-cicd-assignment",
+    "cicd_assignment": "se2-cicd-assignment"
+  },
+  "targets": {},
+  "etags": {}
+}
